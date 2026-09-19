@@ -149,6 +149,10 @@ Detailed observations and recommendations are available in:
 │
 └── insights/
     └── Fintech_Loan_Insights.md
+```
+
+---
+
 ## 📷 Dashboard Preview
 
 ### Executive Overview
