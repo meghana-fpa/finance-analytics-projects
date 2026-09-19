@@ -2,27 +2,32 @@
 
 ## 📌 Project Overview
 
-An interactive Power BI analytics project designed to analyze e-commerce sales performance, customer purchasing behavior, product performance, and revenue trends.
+An interactive **Power BI analytics project** designed to analyze e-commerce sales performance, customer purchasing behavior, product performance, and revenue trends.
 
-The project focuses on transforming transactional data into meaningful business insights through KPI analysis, customer and product segmentation, trend analysis, and interactive dashboard reporting.
+The project transforms transactional data into meaningful business insights through KPI analysis, customer and product segmentation, trend analysis, and interactive dashboard reporting.
+
+---
 
 ## 🎯 Business Objectives
 
 - Monitor overall sales and revenue performance
 - Analyze order and revenue trends over time
 - Understand customer purchasing behavior
-- Identify high-performing products and categories
-- Compare performance across relevant business segments
+- Identify performance differences across products and categories
+- Compare performance across relevant customer and product segments
 - Support data-driven business decision-making
 
-## 🛠️ Tools Used
+---
 
-- Microsoft Power BI
-- Power Query
-- DAX
-- Microsoft Excel
-- Data Visualization
-- Business Intelligence
+## 🛠️ Tools & Technologies
+
+- **Microsoft Power BI**
+- **Power Query**
+- **DAX**
+- **Data Visualization**
+- **Business Intelligence**
+
+---
 
 ## 📊 Analysis Areas
 
@@ -35,37 +40,73 @@ The project focuses on transforming transactional data into meaningful business 
 - KPI Monitoring
 - Trend Analysis
 
-## 📈 Dashboard
+---
+
+## 📈 Dashboard Structure
 
 The Power BI dashboard provides an interactive view of e-commerce performance across multiple business dimensions.
 
-### Dashboard Pages
+### 1. Executive Overview
 
-**1. Executive Overview**
-- Overall sales and revenue KPIs
-- Order performance
-- Revenue trends
-- Category and product performance
+Provides a high-level view of overall e-commerce performance.
 
-**2. Customer & Product Analysis**
-- Customer purchasing behavior
-- Customer segmentation
-- Product-level performance
-- Category-level analysis
+**Analysis includes:**
 
-**3. Performance Analysis**
-- Revenue and order trends
-- Business performance comparisons
-- Key performance indicators
-- Segment-level analysis
+- Sales and Revenue KPIs
+- Order Performance
+- Revenue Trends
+- Category Performance
+- Product Performance
+
+---
+
+### 2. Customer & Product Analysis
+
+Focuses on customer purchasing behavior and product-level performance.
+
+**Analysis includes:**
+
+- Customer Purchasing Behavior
+- Customer Segmentation
+- Product Performance
+- Category Performance
+- Customer and Product Metrics
+
+---
+
+### 3. Performance Analysis
+
+Provides a broader view of business performance across different dimensions.
+
+**Analysis includes:**
+
+- Revenue Trends
+- Order Trends
+- Performance Comparisons
+- Key Performance Indicators
+- Segment-Level Analysis
+
+---
 
 ## 💡 Key Business Insights
 
-- Revenue and order trends were analyzed to identify changes in overall sales performance.
-- Customer-level analysis helps identify differences in purchasing behavior and revenue contribution.
-- Product and category analysis highlights areas with stronger and weaker performance.
-- Segmentation allows business performance to be evaluated across different customer and product groups.
-- Combining revenue, order, customer, and product metrics provides a broader view of e-commerce performance.
+The analysis provides a structured view of e-commerce performance across customers, products, categories, orders, and revenue.
+
+Key areas of analysis include:
+
+- Revenue and order trends over time
+- Customer purchasing behavior and revenue contribution
+- Product-level performance
+- Category-level performance
+- Customer segmentation
+- Revenue and order performance across business segments
+- Identification of higher- and lower-performing products and segments
+
+Detailed observations and recommendations are available in:
+
+`insights/Ecommerce_Insights.md`
+
+---
 
 ## 📌 Business Recommendations
 
@@ -75,9 +116,11 @@ The Power BI dashboard provides an interactive view of e-commerce performance ac
 - Regularly monitor revenue and order trends to identify changes in customer demand.
 - Use customer and product segmentation to support more focused business decisions.
 
+---
+
 ## 🔍 Data Preparation
 
-The dataset was prepared for analysis using Power Query.
+The dataset was prepared for analysis using **Power Query**.
 
 Key data preparation steps included:
 
@@ -89,11 +132,14 @@ Key data preparation steps included:
 - Revenue calculation validation
 - Data modeling for Power BI analysis
 
+---
+
 ## 🧠 Skills Demonstrated
 
 - Data Cleaning & Transformation
 - Power Query
-- DAX
+- Data Modeling
+- DAX Calculations
 - KPI Development
 - Customer Analysis
 - Product Analysis
@@ -104,11 +150,51 @@ Key data preparation steps included:
 - Interactive Dashboard Development
 - Business Insight Generation
 
-## 📂 Project Files
+---
 
-- `Project_3_Ecommerce_Analytics.pbix` — Power BI dashboard
-- `screenshots/` — Dashboard screenshots
-- `insights/` — Business insights and recommendations
+## 📂 Project Structure
+
+```text
+03-ecommerce-analytics/
+│
+├── Project_3_Ecommerce_Analytics.pbix
+├── README.md
+│
+├── screenshots/
+│   ├── 01_Ecommerce_Executive_Overview.png
+│   ├── 02_Customer_Product_Analysis.png
+│   └── 03_Performance_Analysis.png
+│
+└── insights/
+    └── Ecommerce_Insights.md
+```
+
+---
+
+## 📷 Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview](screenshots/01_Ecommerce_Executive_Overview.png)
+
+### Customer & Product Analysis
+
+![Customer & Product Analysis](screenshots/02_Customer_Product_Analysis.png)
+
+### Performance Analysis
+
+![Performance Analysis](screenshots/03_Performance_Analysis.png)
+
+---
+
+## 📁 Project Files
+
+- **`Project_3_Ecommerce_Analytics.pbix`** — Interactive Power BI dashboard
+- **`screenshots/`** — Dashboard screenshots and previews
+- **`insights/Ecommerce_Insights.md`** — Detailed business insights and recommendations
+- **`README.md`** — Project documentation
+
+---
 
 ## 👩‍💻 Author
 
