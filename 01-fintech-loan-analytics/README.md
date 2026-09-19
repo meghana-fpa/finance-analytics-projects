@@ -27,7 +27,6 @@ The project transforms loan application data into actionable business insights t
 - **Microsoft Power BI**
 - **Power Query**
 - **DAX**
-- **Microsoft Excel**
 - **Data Visualization**
 - **Business Intelligence**
 
@@ -112,6 +111,10 @@ The dashboard enables analysis of:
 - Pending and rejected application volumes
 - Disbursement performance across channels and loan types
 
+Detailed observations and recommendations are available in:
+
+`insights/Fintech_Loan_Insights.md`
+
 ---
 
 ## 📈 Key Skills Demonstrated
@@ -131,28 +134,43 @@ The dashboard enables analysis of:
 
 ---
 
-## 📂 Project Files
+## 📂 Project Structure
 
-- `Fintech_Loan_Analytics.pbix` — Power BI dashboard file
-- `01_Executive_Overview.png` — Executive Overview dashboard preview
-- `02_Loan_Funnel_Analysis.png` — Loan Funnel Analysis dashboard preview
-- `03_Sales_Operations_Analysis.png` — Sales & Operations Analysis dashboard preview
-
----
-
+```text
+01-fintech-loan-analytics/
+│
+├── Fintech_Loan_Analytics.pbix
+├── README.md
+│
+├── screenshots/
+│   ├── 01_Executive_Overview.png
+│   ├── 02_Loan_Funnel_Analysis.png
+│   └── 03_Sales_Operations_Analysis.png
+│
+└── insights/
+    └── Fintech_Loan_Insights.md
 ## 📷 Dashboard Preview
 
 ### Executive Overview
 
-![Executive Overview](01_Executive_Overview.png)
+![Executive Overview](screenshots/01_Executive_Overview.png)
 
 ### Loan Funnel Analysis
 
-![Loan Funnel Analysis](02_Loan_Funnel_Analysis.png)
+![Loan Funnel Analysis](screenshots/02_Loan_Funnel_Analysis.png)
 
 ### Sales & Operations Analysis
 
-![Sales & Operations Analysis](03_Sales_Operations_Analysis.png)
+![Sales & Operations Analysis](screenshots/03_Sales_Operations_Analysis.png)
+
+---
+
+## 📁 Project Files
+
+- **`Fintech_Loan_Analytics.pbix`** — Interactive Power BI dashboard
+- **`screenshots/`** — Dashboard screenshots and previews
+- **`insights/Fintech_Loan_Insights.md`** — Detailed business insights and recommendations
+- **`README.md`** — Project documentation
 
 ---
 
