@@ -110,6 +110,28 @@ An interactive analytics project analyzing e-commerce sales performance, custome
 
 ---
 
+## 4. Retail Sales SQL Analytics
+
+**Domain:** Retail Sales Analytics  
+**Tools:** SQL
+
+A SQL analytics project focused on analyzing customer purchasing behavior, completed orders, revenue contribution, and average order value.
+
+### Key Analysis
+
+- Completed customer orders
+- Customer order frequency
+- Total customer revenue
+- Average order value
+- High-value customer identification
+- Revenue-based customer analysis
+
+The analysis uses customer, order, and order-item data to identify customers with multiple completed orders and higher revenue contribution.
+
+📁 **[View Retail Sales SQL Analytics Project](./04-retail-sales-sql-analytics/)**
+
+---
+
 # 📈 Analytics Capabilities Demonstrated
 
 Across these projects, I have demonstrated practical experience in:
