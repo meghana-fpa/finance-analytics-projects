@@ -187,11 +187,14 @@ finance-analytics-projects/
 │   ├── screenshots/
 │   └── insights/
 │
+├── 04-retail-sales-sql-analytics/
+│   ├── retail_sales_analytics.sql
+│   └── README.md
+│
 └── README.md
 ```
 
 ---
-
 # 📫 Connect With Me
 
 **Meghana P**
